@@ -1,0 +1,68 @@
+header {
+    background-color: #FFF9F4;
+}
+
+.nike-nav .nav-item {
+    margin-left: 50px;
+}
+.text-color{
+    color: #3C3C3C;
+    font-family: 'Roboto';
+}
+#nike-text {
+    color: #FA804C;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 90px;
+}
+
+#infinity-text {
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 90px;
+}
+
+.btn {
+    color: white;
+    height: 60px;
+    width: 170px;
+    border-radius: 10px;
+    background-color: 0D6EFD;
+}
+.title {
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+}
+.card-title{
+    color: #363958;
+    font-family: 'Roboto';
+    font-size: 24px; 
+}
+.text-color-orange{
+    color: FA804C;
+}
+
+.casual-shoe-bg{
+    background-color: #F1F1F1;
+    border-radius: 30px;
+}
+
+.shoe-card{
+    border:0;
+    border-radius: 30px;
+}
+#casual-shoe1 img{
+    width: 90%;
+}
+#casual-shoe2 img{
+    width: 96.5%;
+}
+#casual-shoe3 img{
+    width: 92%;
+}
+#formal-shoe img{
+    width: 95%;
+}
+.formal-shoe-bg{
+    background-color: #ffffff;
+    border-radius: 30px;
+}
