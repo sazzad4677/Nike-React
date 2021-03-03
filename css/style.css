@@ -50,6 +50,12 @@ header {
     border:0;
     border-radius: 30px;
 }
+.card-img-top {
+    transition: .5s ;
+}
+.shoe-card:hover .card-img-top {
+    transform: scale(1.1);
+}
 #casual-shoe1 img{
     width: 90%;
 }
