@@ -1,4 +1,7 @@
-header {
+html {
+    scroll-behavior: smooth;
+  }
+header  {
     background-color: #FFF9F4;
 }
 
